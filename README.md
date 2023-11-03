@@ -8,7 +8,7 @@ This Shiny App gives insight into the accident data. The explorer allows the use
 
 
 
-## This is the link to my Shiny App
+## This is the link to the Shiny App for your use
 https://walakd01.shinyapps.io/Assignment10/
 
 
