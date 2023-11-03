@@ -1,3 +1,10 @@
+# Accident Data Analysis
+This Shiny App gives insight into the accident data. The explorer allows the user of this App to select a state in the United States and a month which will enable the App to display 
+1.  the corresponding number of deaths in the state
+2.  the Light and Weather conditions when the accident happened
+3.  the gender of the person involved in the accident and
+4.  a data table that shows the data table of frequency of accidents that happened on the day of the week
+
 
 
 
